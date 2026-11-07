@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Incidencias Cloud",
+    "slug": "incidencias-cloud-actividad20",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [["expo-image-picker", {"photosPermission": "Permitir seleccionar fotografías de incidencias.", "cameraPermission": "Permitir tomar fotografías de incidencias.", "microphonePermission": false}]],
+    "android": {"package": "com.actividad20.incidenciascloud"},
+    "ios": {"bundleIdentifier": "com.actividad20.incidenciascloud"}
+  }
+}
